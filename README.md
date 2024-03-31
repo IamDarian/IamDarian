@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IamDarian
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me:
+- 📫 Ways to reach me:
   by e-mail: silisteanudarian@gmail.com,
   or by LinkedIn: https://www.linkedin.com/in/darian-gabriel-sili%C8%99teanu-1a743b1b3/
 
